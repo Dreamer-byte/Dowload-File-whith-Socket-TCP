@@ -37,6 +37,7 @@ public class Cliente {
         }
         if(!Directory.exists())
         {
+            JOptionPane.showMessageDialog(null,"    Silo encunetra");
             
             try
             {
